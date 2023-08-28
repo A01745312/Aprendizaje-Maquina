@@ -78,6 +78,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# VS extensions
+
+.vscode
+
 # IPython
 profile_default/
 ipython_config.py
